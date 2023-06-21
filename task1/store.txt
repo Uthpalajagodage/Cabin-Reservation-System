@@ -1,0 +1,12 @@
+Cabin number 0 aaa cabin 1
+Cabin number 1 bbb cabin 2
+Cabin number 2 unreserved cabin 0
+Cabin number 3 unreserved cabin 10
+Cabin number 4 unreserved cabin 11
+Cabin number 5 unreserved cabin 3
+Cabin number 6 unreserved cabin 4
+Cabin number 7 unreserved cabin 5
+Cabin number 8 unreserved cabin 6
+Cabin number 9 unreserved cabin 7
+Cabin number 10 unreserved cabin 8
+Cabin number 11 unreserved cabin 9
